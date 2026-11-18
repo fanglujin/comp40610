@@ -1,0 +1,1849 @@
+t,name,annual_rate
+2015-01-01,Alcohol & tobacco,1.5
+2015-02-01,Alcohol & tobacco,1.1
+2015-03-01,Alcohol & tobacco,1.0
+2015-04-01,Alcohol & tobacco,0.8
+2015-05-01,Alcohol & tobacco,0.5
+2015-06-01,Alcohol & tobacco,0.0
+2015-07-01,Alcohol & tobacco,-0.6
+2015-08-01,Alcohol & tobacco,-0.1
+2015-09-01,Alcohol & tobacco,-0.1
+2015-10-01,Alcohol & tobacco,-0.2
+2015-11-01,Alcohol & tobacco,0.6
+2015-12-01,Alcohol & tobacco,0.3
+2016-01-01,Alcohol & tobacco,0.8
+2016-02-01,Alcohol & tobacco,1.3
+2016-03-01,Alcohol & tobacco,0.4
+2016-04-01,Alcohol & tobacco,1.7
+2016-05-01,Alcohol & tobacco,1.4
+2016-06-01,Alcohol & tobacco,1.9
+2016-07-01,Alcohol & tobacco,1.7
+2016-08-01,Alcohol & tobacco,1.8
+2016-09-01,Alcohol & tobacco,1.5
+2016-10-01,Alcohol & tobacco,2.0
+2016-11-01,Alcohol & tobacco,2.1
+2016-12-01,Alcohol & tobacco,1.7
+2017-01-01,Alcohol & tobacco,0.5
+2017-02-01,Alcohol & tobacco,-0.1
+2017-03-01,Alcohol & tobacco,0.5
+2017-04-01,Alcohol & tobacco,0.0
+2017-05-01,Alcohol & tobacco,2.0
+2017-06-01,Alcohol & tobacco,0.6
+2017-07-01,Alcohol & tobacco,1.4
+2017-08-01,Alcohol & tobacco,0.5
+2017-09-01,Alcohol & tobacco,0.7
+2017-10-01,Alcohol & tobacco,1.2
+2017-11-01,Alcohol & tobacco,-0.2
+2017-12-01,Alcohol & tobacco,1.0
+2018-01-01,Alcohol & tobacco,2.7
+2018-02-01,Alcohol & tobacco,3.0
+2018-03-01,Alcohol & tobacco,2.7
+2018-04-01,Alcohol & tobacco,3.1
+2018-05-01,Alcohol & tobacco,1.9
+2018-06-01,Alcohol & tobacco,2.7
+2018-07-01,Alcohol & tobacco,2.8
+2018-08-01,Alcohol & tobacco,2.8
+2018-09-01,Alcohol & tobacco,3.2
+2018-10-01,Alcohol & tobacco,2.7
+2018-11-01,Alcohol & tobacco,3.1
+2018-12-01,Alcohol & tobacco,2.8
+2019-01-01,Alcohol & tobacco,2.7
+2019-02-01,Alcohol & tobacco,2.7
+2019-03-01,Alcohol & tobacco,3.1
+2019-04-01,Alcohol & tobacco,2.4
+2019-05-01,Alcohol & tobacco,2.7
+2019-06-01,Alcohol & tobacco,3.2
+2019-07-01,Alcohol & tobacco,2.5
+2019-08-01,Alcohol & tobacco,3.1
+2019-09-01,Alcohol & tobacco,3.0
+2019-10-01,Alcohol & tobacco,2.6
+2019-11-01,Alcohol & tobacco,2.5
+2019-12-01,Alcohol & tobacco,3.1
+2020-01-01,Alcohol & tobacco,3.8
+2020-02-01,Alcohol & tobacco,3.2
+2020-03-01,Alcohol & tobacco,2.8
+2020-04-01,Alcohol & tobacco,3.9
+2020-05-01,Alcohol & tobacco,3.5
+2020-06-01,Alcohol & tobacco,2.5
+2020-07-01,Alcohol & tobacco,3.5
+2020-08-01,Alcohol & tobacco,2.9
+2020-09-01,Alcohol & tobacco,0.9
+2020-10-01,Alcohol & tobacco,0.8
+2020-11-01,Alcohol & tobacco,1.1
+2020-12-01,Alcohol & tobacco,0.3
+2021-01-01,Alcohol & tobacco,0.3
+2021-02-01,Alcohol & tobacco,1.0
+2021-03-01,Alcohol & tobacco,2.2
+2021-04-01,Alcohol & tobacco,2.2
+2021-05-01,Alcohol & tobacco,1.7
+2021-06-01,Alcohol & tobacco,1.6
+2021-07-01,Alcohol & tobacco,1.4
+2021-08-01,Alcohol & tobacco,2.3
+2021-09-01,Alcohol & tobacco,4.8
+2021-10-01,Alcohol & tobacco,4.2
+2021-11-01,Alcohol & tobacco,3.5
+2021-12-01,Alcohol & tobacco,2.5
+2022-01-01,Alcohol & tobacco,8.5
+2022-02-01,Alcohol & tobacco,7.8
+2022-03-01,Alcohol & tobacco,7.0
+2022-04-01,Alcohol & tobacco,5.1
+2022-05-01,Alcohol & tobacco,7.6
+2022-06-01,Alcohol & tobacco,8.2
+2022-07-01,Alcohol & tobacco,7.7
+2022-08-01,Alcohol & tobacco,8.0
+2022-09-01,Alcohol & tobacco,7.1
+2022-10-01,Alcohol & tobacco,8.7
+2022-11-01,Alcohol & tobacco,9.0
+2022-12-01,Alcohol & tobacco,10.7
+2023-01-01,Alcohol & tobacco,3.3
+2023-02-01,Alcohol & tobacco,5.0
+2023-03-01,Alcohol & tobacco,4.9
+2023-04-01,Alcohol & tobacco,6.1
+2023-05-01,Alcohol & tobacco,5.0
+2023-06-01,Alcohol & tobacco,4.5
+2023-07-01,Alcohol & tobacco,4.7
+2023-08-01,Alcohol & tobacco,4.2
+2023-09-01,Alcohol & tobacco,4.4
+2023-10-01,Alcohol & tobacco,4.2
+2023-11-01,Alcohol & tobacco,4.7
+2023-12-01,Alcohol & tobacco,4.9
+2024-01-01,Alcohol & tobacco,4.7
+2024-02-01,Alcohol & tobacco,3.6
+2024-03-01,Alcohol & tobacco,3.2
+2024-04-01,Alcohol & tobacco,4.6
+2024-05-01,Alcohol & tobacco,3.6
+2024-06-01,Alcohol & tobacco,3.4
+2024-07-01,Alcohol & tobacco,3.4
+2024-08-01,Alcohol & tobacco,3.7
+2024-09-01,Alcohol & tobacco,3.1
+2024-10-01,Alcohol & tobacco,4.9
+2024-11-01,Alcohol & tobacco,3.5
+2024-12-01,Alcohol & tobacco,3.0
+2025-01-01,Alcohol & tobacco,3.9
+2025-02-01,Alcohol & tobacco,3.7
+2025-03-01,Alcohol & tobacco,4.3
+2025-04-01,Alcohol & tobacco,2.3
+2025-05-01,Alcohol & tobacco,3.0
+2025-06-01,Alcohol & tobacco,3.0
+2025-07-01,Alcohol & tobacco,3.0
+2025-08-01,Alcohol & tobacco,3.2
+2025-09-01,Alcohol & tobacco,3.5
+2025-10-01,Alcohol & tobacco,1.9
+2025-11-01,Alcohol & tobacco,2.5
+2025-12-01,Alcohol & tobacco,2.6
+2015-01-01,All items,-0.4
+2015-02-01,All items,-0.4
+2015-03-01,All items,-0.2
+2015-04-01,All items,-0.3
+2015-05-01,All items,0.2
+2015-06-01,All items,0.4
+2015-07-01,All items,0.2
+2015-08-01,All items,0.2
+2015-09-01,All items,-0.1
+2015-10-01,All items,0.0
+2015-11-01,All items,-0.1
+2015-12-01,All items,0.2
+2016-01-01,All items,0.0
+2016-02-01,All items,-0.2
+2016-03-01,All items,-0.6
+2016-04-01,All items,-0.2
+2016-05-01,All items,-0.2
+2016-06-01,All items,0.1
+2016-07-01,All items,0.1
+2016-08-01,All items,-0.4
+2016-09-01,All items,-0.3
+2016-10-01,All items,-0.5
+2016-11-01,All items,-0.2
+2016-12-01,All items,-0.2
+2017-01-01,All items,0.2
+2017-02-01,All items,0.3
+2017-03-01,All items,0.6
+2017-04-01,All items,0.7
+2017-05-01,All items,0.0
+2017-06-01,All items,-0.6
+2017-07-01,All items,-0.2
+2017-08-01,All items,0.4
+2017-09-01,All items,0.2
+2017-10-01,All items,0.5
+2017-11-01,All items,0.5
+2017-12-01,All items,0.5
+2018-01-01,All items,0.3
+2018-02-01,All items,0.7
+2018-03-01,All items,0.5
+2018-04-01,All items,-0.1
+2018-05-01,All items,0.7
+2018-06-01,All items,0.7
+2018-07-01,All items,1.1
+2018-08-01,All items,0.9
+2018-09-01,All items,1.2
+2018-10-01,All items,1.1
+2018-11-01,All items,0.8
+2018-12-01,All items,0.8
+2019-01-01,All items,0.8
+2019-02-01,All items,0.7
+2019-03-01,All items,1.1
+2019-04-01,All items,1.7
+2019-05-01,All items,1.0
+2019-06-01,All items,1.2
+2019-07-01,All items,0.4
+2019-08-01,All items,0.6
+2019-09-01,All items,0.6
+2019-10-01,All items,0.6
+2019-11-01,All items,0.8
+2019-12-01,All items,1.1
+2020-01-01,All items,1.1
+2020-02-01,All items,0.9
+2020-03-01,All items,0.5
+2020-04-01,All items,-0.3
+2020-05-01,All items,-0.8
+2020-06-01,All items,-0.7
+2020-07-01,All items,-0.5
+2020-08-01,All items,-1.1
+2020-09-01,All items,-1.2
+2020-10-01,All items,-1.5
+2020-11-01,All items,-1.0
+2020-12-01,All items,-1.0
+2021-01-01,All items,-0.1
+2021-02-01,All items,-0.4
+2021-03-01,All items,0.1
+2021-04-01,All items,1.1
+2021-05-01,All items,1.9
+2021-06-01,All items,1.6
+2021-07-01,All items,2.1
+2021-08-01,All items,3.0
+2021-09-01,All items,3.8
+2021-10-01,All items,5.1
+2021-11-01,All items,5.4
+2021-12-01,All items,5.7
+2022-01-01,All items,5.0
+2022-02-01,All items,5.7
+2022-03-01,All items,6.9
+2022-04-01,All items,7.3
+2022-05-01,All items,8.3
+2022-06-01,All items,9.6
+2022-07-01,All items,9.6
+2022-08-01,All items,9.0
+2022-09-01,All items,8.6
+2022-10-01,All items,9.4
+2022-11-01,All items,9.0
+2022-12-01,All items,8.2
+2023-01-01,All items,7.5
+2023-02-01,All items,8.1
+2023-03-01,All items,7.0
+2023-04-01,All items,6.3
+2023-05-01,All items,5.4
+2023-06-01,All items,4.8
+2023-07-01,All items,4.6
+2023-08-01,All items,4.9
+2023-09-01,All items,5.0
+2023-10-01,All items,3.6
+2023-11-01,All items,2.5
+2023-12-01,All items,3.2
+2024-01-01,All items,2.7
+2024-02-01,All items,2.3
+2024-03-01,All items,1.7
+2024-04-01,All items,1.6
+2024-05-01,All items,2.0
+2024-06-01,All items,1.5
+2024-07-01,All items,1.5
+2024-08-01,All items,1.1
+2024-09-01,All items,0.0
+2024-10-01,All items,0.2
+2024-11-01,All items,0.5
+2024-12-01,All items,1.0
+2025-01-01,All items,1.7
+2025-02-01,All items,1.4
+2025-03-01,All items,1.8
+2025-04-01,All items,2.0
+2025-05-01,All items,1.4
+2025-06-01,All items,1.6
+2025-07-01,All items,1.6
+2025-08-01,All items,1.9
+2025-09-01,All items,2.7
+2025-10-01,All items,2.8
+2025-11-01,All items,3.1
+2025-12-01,All items,2.7
+2015-01-01,Clothing & footwear,-3.1
+2015-02-01,Clothing & footwear,-3.0
+2015-03-01,Clothing & footwear,-4.1
+2015-04-01,Clothing & footwear,-4.5
+2015-05-01,Clothing & footwear,-4.1
+2015-06-01,Clothing & footwear,-2.9
+2015-07-01,Clothing & footwear,-3.6
+2015-08-01,Clothing & footwear,-5.0
+2015-09-01,Clothing & footwear,-4.1
+2015-10-01,Clothing & footwear,-3.3
+2015-11-01,Clothing & footwear,-3.5
+2015-12-01,Clothing & footwear,-4.1
+2016-01-01,Clothing & footwear,-4.0
+2016-02-01,Clothing & footwear,-3.9
+2016-03-01,Clothing & footwear,-2.3
+2016-04-01,Clothing & footwear,-2.2
+2016-05-01,Clothing & footwear,-1.2
+2016-06-01,Clothing & footwear,-2.8
+2016-07-01,Clothing & footwear,-1.1
+2016-08-01,Clothing & footwear,-0.9
+2016-09-01,Clothing & footwear,-1.9
+2016-10-01,Clothing & footwear,-2.6
+2016-11-01,Clothing & footwear,-2.8
+2016-12-01,Clothing & footwear,-3.8
+2017-01-01,Clothing & footwear,-2.5
+2017-02-01,Clothing & footwear,-2.5
+2017-03-01,Clothing & footwear,-3.9
+2017-04-01,Clothing & footwear,-4.4
+2017-05-01,Clothing & footwear,-5.3
+2017-06-01,Clothing & footwear,-5.3
+2017-07-01,Clothing & footwear,-5.9
+2017-08-01,Clothing & footwear,-4.7
+2017-09-01,Clothing & footwear,-4.8
+2017-10-01,Clothing & footwear,-4.7
+2017-11-01,Clothing & footwear,-3.4
+2017-12-01,Clothing & footwear,-3.9
+2018-01-01,Clothing & footwear,-3.1
+2018-02-01,Clothing & footwear,-2.9
+2018-03-01,Clothing & footwear,-3.0
+2018-04-01,Clothing & footwear,-2.0
+2018-05-01,Clothing & footwear,-1.7
+2018-06-01,Clothing & footwear,-1.4
+2018-07-01,Clothing & footwear,-0.2
+2018-08-01,Clothing & footwear,-0.9
+2018-09-01,Clothing & footwear,-0.9
+2018-10-01,Clothing & footwear,-0.6
+2018-11-01,Clothing & footwear,-1.2
+2018-12-01,Clothing & footwear,-0.4
+2019-01-01,Clothing & footwear,-1.5
+2019-02-01,Clothing & footwear,-1.6
+2019-03-01,Clothing & footwear,-1.6
+2019-04-01,Clothing & footwear,-1.2
+2019-05-01,Clothing & footwear,-1.3
+2019-06-01,Clothing & footwear,-1.0
+2019-07-01,Clothing & footwear,-1.6
+2019-08-01,Clothing & footwear,-1.6
+2019-09-01,Clothing & footwear,-1.7
+2019-10-01,Clothing & footwear,-2.5
+2019-11-01,Clothing & footwear,-1.2
+2019-12-01,Clothing & footwear,-1.2
+2020-01-01,Clothing & footwear,1.2
+2020-02-01,Clothing & footwear,-1.0
+2020-03-01,Clothing & footwear,-1.0
+2020-04-01,Clothing & footwear,-3.8
+2020-05-01,Clothing & footwear,-5.4
+2020-06-01,Clothing & footwear,-5.0
+2020-07-01,Clothing & footwear,1.5
+2020-08-01,Clothing & footwear,-3.1
+2020-09-01,Clothing & footwear,-5.7
+2020-10-01,Clothing & footwear,-4.4
+2020-11-01,Clothing & footwear,-7.9
+2020-12-01,Clothing & footwear,-7.9
+2021-01-01,Clothing & footwear,-3.4
+2021-02-01,Clothing & footwear,-6.7
+2021-03-01,Clothing & footwear,-6.5
+2021-04-01,Clothing & footwear,-3.6
+2021-05-01,Clothing & footwear,-2.2
+2021-06-01,Clothing & footwear,-0.1
+2021-07-01,Clothing & footwear,-7.2
+2021-08-01,Clothing & footwear,-5.6
+2021-09-01,Clothing & footwear,-3.1
+2021-10-01,Clothing & footwear,-2.3
+2021-11-01,Clothing & footwear,1.9
+2021-12-01,Clothing & footwear,2.1
+2022-01-01,Clothing & footwear,-3.6
+2022-02-01,Clothing & footwear,2.0
+2022-03-01,Clothing & footwear,-0.8
+2022-04-01,Clothing & footwear,2.0
+2022-05-01,Clothing & footwear,3.7
+2022-06-01,Clothing & footwear,2.1
+2022-07-01,Clothing & footwear,4.2
+2022-08-01,Clothing & footwear,3.0
+2022-09-01,Clothing & footwear,4.3
+2022-10-01,Clothing & footwear,3.3
+2022-11-01,Clothing & footwear,1.8
+2022-12-01,Clothing & footwear,3.2
+2023-01-01,Clothing & footwear,4.9
+2023-02-01,Clothing & footwear,4.2
+2023-03-01,Clothing & footwear,6.8
+2023-04-01,Clothing & footwear,3.3
+2023-05-01,Clothing & footwear,2.1
+2023-06-01,Clothing & footwear,3.9
+2023-07-01,Clothing & footwear,0.6
+2023-08-01,Clothing & footwear,3.7
+2023-09-01,Clothing & footwear,3.1
+2023-10-01,Clothing & footwear,3.3
+2023-11-01,Clothing & footwear,2.0
+2023-12-01,Clothing & footwear,2.7
+2024-01-01,Clothing & footwear,-1.3
+2024-02-01,Clothing & footwear,-3.6
+2024-03-01,Clothing & footwear,-6.8
+2024-04-01,Clothing & footwear,-6.7
+2024-05-01,Clothing & footwear,-6.3
+2024-06-01,Clothing & footwear,-6.7
+2024-07-01,Clothing & footwear,-5.0
+2024-08-01,Clothing & footwear,-6.3
+2024-09-01,Clothing & footwear,-7.6
+2024-10-01,Clothing & footwear,-7.5
+2024-11-01,Clothing & footwear,-7.6
+2024-12-01,Clothing & footwear,-8.0
+2025-01-01,Clothing & footwear,-6.5
+2025-02-01,Clothing & footwear,-4.1
+2025-03-01,Clothing & footwear,-1.8
+2025-04-01,Clothing & footwear,-2.5
+2025-05-01,Clothing & footwear,-1.9
+2025-06-01,Clothing & footwear,-2.2
+2025-07-01,Clothing & footwear,-2.4
+2025-08-01,Clothing & footwear,3.4
+2025-09-01,Clothing & footwear,3.8
+2025-10-01,Clothing & footwear,3.7
+2025-11-01,Clothing & footwear,4.5
+2025-12-01,Clothing & footwear,5.8
+2015-01-01,Education,5.4
+2015-02-01,Education,5.4
+2015-03-01,Education,5.4
+2015-04-01,Education,5.4
+2015-05-01,Education,5.4
+2015-06-01,Education,5.4
+2015-07-01,Education,5.4
+2015-08-01,Education,5.4
+2015-09-01,Education,5.4
+2015-10-01,Education,3.8
+2015-11-01,Education,3.8
+2015-12-01,Education,3.8
+2016-01-01,Education,3.8
+2016-02-01,Education,3.8
+2016-03-01,Education,3.8
+2016-04-01,Education,3.8
+2016-05-01,Education,3.8
+2016-06-01,Education,3.8
+2016-07-01,Education,3.8
+2016-08-01,Education,3.8
+2016-09-01,Education,3.8
+2016-10-01,Education,1.1
+2016-11-01,Education,1.3
+2016-12-01,Education,1.3
+2017-01-01,Education,1.3
+2017-02-01,Education,1.3
+2017-03-01,Education,1.3
+2017-04-01,Education,1.3
+2017-05-01,Education,1.3
+2017-06-01,Education,1.3
+2017-07-01,Education,1.3
+2017-08-01,Education,1.3
+2017-09-01,Education,1.3
+2017-10-01,Education,1.1
+2017-11-01,Education,0.8
+2017-12-01,Education,0.8
+2018-01-01,Education,0.8
+2018-02-01,Education,0.8
+2018-03-01,Education,0.8
+2018-04-01,Education,0.8
+2018-05-01,Education,0.8
+2018-06-01,Education,0.8
+2018-07-01,Education,0.8
+2018-08-01,Education,0.8
+2018-09-01,Education,0.8
+2018-10-01,Education,1.1
+2018-11-01,Education,1.1
+2018-12-01,Education,1.1
+2019-01-01,Education,1.1
+2019-02-01,Education,1.1
+2019-03-01,Education,1.1
+2019-04-01,Education,1.1
+2019-05-01,Education,1.1
+2019-06-01,Education,1.1
+2019-07-01,Education,1.1
+2019-08-01,Education,1.1
+2019-09-01,Education,1.1
+2019-10-01,Education,4.4
+2019-11-01,Education,4.0
+2019-12-01,Education,4.0
+2020-01-01,Education,4.0
+2020-02-01,Education,4.0
+2020-03-01,Education,4.0
+2020-04-01,Education,4.0
+2020-05-01,Education,4.0
+2020-06-01,Education,4.0
+2020-07-01,Education,4.0
+2020-08-01,Education,4.0
+2020-09-01,Education,4.0
+2020-10-01,Education,-0.1
+2020-11-01,Education,0.4
+2020-12-01,Education,0.4
+2021-01-01,Education,0.4
+2021-02-01,Education,0.4
+2021-03-01,Education,0.4
+2021-04-01,Education,0.4
+2021-05-01,Education,0.4
+2021-06-01,Education,0.4
+2021-07-01,Education,0.4
+2021-08-01,Education,0.4
+2021-09-01,Education,0.4
+2021-10-01,Education,-0.5
+2021-11-01,Education,-0.4
+2021-12-01,Education,-0.4
+2022-01-01,Education,-0.4
+2022-02-01,Education,-1.5
+2022-03-01,Education,-1.5
+2022-04-01,Education,-1.5
+2022-05-01,Education,-1.5
+2022-06-01,Education,-1.5
+2022-07-01,Education,-1.5
+2022-08-01,Education,-1.5
+2022-09-01,Education,-1.5
+2022-10-01,Education,-9.2
+2022-11-01,Education,-9.8
+2022-12-01,Education,-9.8
+2023-01-01,Education,-9.8
+2023-02-01,Education,-8.7
+2023-03-01,Education,-8.7
+2023-04-01,Education,-8.7
+2023-05-01,Education,-8.7
+2023-06-01,Education,-8.7
+2023-07-01,Education,-8.7
+2023-08-01,Education,-8.7
+2023-09-01,Education,-8.7
+2023-10-01,Education,1.2
+2023-11-01,Education,1.7
+2023-12-01,Education,1.7
+2024-01-01,Education,1.7
+2024-02-01,Education,1.7
+2024-03-01,Education,1.7
+2024-04-01,Education,1.7
+2024-05-01,Education,1.7
+2024-06-01,Education,1.7
+2024-07-01,Education,1.7
+2024-08-01,Education,1.7
+2024-09-01,Education,1.7
+2024-10-01,Education,2.6
+2024-11-01,Education,2.3
+2024-12-01,Education,2.3
+2025-01-01,Education,2.3
+2025-02-01,Education,2.3
+2025-03-01,Education,2.3
+2025-04-01,Education,2.3
+2025-05-01,Education,2.3
+2025-06-01,Education,2.3
+2025-07-01,Education,2.3
+2025-08-01,Education,2.3
+2025-09-01,Education,2.3
+2025-10-01,Education,8.5
+2025-11-01,Education,8.9
+2025-12-01,Education,8.9
+2015-01-01,Food & drinks,-2.4
+2015-02-01,Food & drinks,-2.9
+2015-03-01,Food & drinks,-2.7
+2015-04-01,Food & drinks,-2.4
+2015-05-01,Food & drinks,-2.5
+2015-06-01,Food & drinks,-2.2
+2015-07-01,Food & drinks,-2.4
+2015-08-01,Food & drinks,-2.3
+2015-09-01,Food & drinks,-2.2
+2015-10-01,Food & drinks,-1.4
+2015-11-01,Food & drinks,-1.3
+2015-12-01,Food & drinks,-1.0
+2016-01-01,Food & drinks,-0.9
+2016-02-01,Food & drinks,-0.9
+2016-03-01,Food & drinks,-0.5
+2016-04-01,Food & drinks,-1.0
+2016-05-01,Food & drinks,-1.1
+2016-06-01,Food & drinks,-1.1
+2016-07-01,Food & drinks,-1.0
+2016-08-01,Food & drinks,-1.0
+2016-09-01,Food & drinks,-1.1
+2016-10-01,Food & drinks,-2.2
+2016-11-01,Food & drinks,-2.3
+2016-12-01,Food & drinks,-2.8
+2017-01-01,Food & drinks,-2.5
+2017-02-01,Food & drinks,-2.7
+2017-03-01,Food & drinks,-2.6
+2017-04-01,Food & drinks,-2.7
+2017-05-01,Food & drinks,-2.2
+2017-06-01,Food & drinks,-2.7
+2017-07-01,Food & drinks,-2.0
+2017-08-01,Food & drinks,-1.7
+2017-09-01,Food & drinks,-2.0
+2017-10-01,Food & drinks,-1.2
+2017-11-01,Food & drinks,-1.2
+2017-12-01,Food & drinks,-1.5
+2018-01-01,Food & drinks,-1.6
+2018-02-01,Food & drinks,-1.8
+2018-03-01,Food & drinks,-1.9
+2018-04-01,Food & drinks,-2.1
+2018-05-01,Food & drinks,-2.3
+2018-06-01,Food & drinks,-2.1
+2018-07-01,Food & drinks,-2.1
+2018-08-01,Food & drinks,-2.6
+2018-09-01,Food & drinks,-2.2
+2018-10-01,Food & drinks,-2.1
+2018-11-01,Food & drinks,-2.0
+2018-12-01,Food & drinks,-1.5
+2019-01-01,Food & drinks,-1.6
+2019-02-01,Food & drinks,-0.6
+2019-03-01,Food & drinks,-0.6
+2019-04-01,Food & drinks,0.0
+2019-05-01,Food & drinks,-0.2
+2019-06-01,Food & drinks,-0.2
+2019-07-01,Food & drinks,-0.5
+2019-08-01,Food & drinks,-0.3
+2019-09-01,Food & drinks,-1.0
+2019-10-01,Food & drinks,-1.3
+2019-11-01,Food & drinks,-1.1
+2019-12-01,Food & drinks,-0.8
+2020-01-01,Food & drinks,-1.1
+2020-02-01,Food & drinks,-1.1
+2020-03-01,Food & drinks,-1.6
+2020-04-01,Food & drinks,-1.3
+2020-05-01,Food & drinks,-1.3
+2020-06-01,Food & drinks,-1.5
+2020-07-01,Food & drinks,-1.3
+2020-08-01,Food & drinks,-1.7
+2020-09-01,Food & drinks,-1.4
+2020-10-01,Food & drinks,-1.5
+2020-11-01,Food & drinks,-1.5
+2020-12-01,Food & drinks,-1.5
+2021-01-01,Food & drinks,-2.1
+2021-02-01,Food & drinks,-1.9
+2021-03-01,Food & drinks,-0.9
+2021-04-01,Food & drinks,-0.8
+2021-05-01,Food & drinks,-1.1
+2021-06-01,Food & drinks,-0.2
+2021-07-01,Food & drinks,0.0
+2021-08-01,Food & drinks,0.1
+2021-09-01,Food & drinks,0.4
+2021-10-01,Food & drinks,0.9
+2021-11-01,Food & drinks,1.0
+2021-12-01,Food & drinks,1.4
+2022-01-01,Food & drinks,2.2
+2022-02-01,Food & drinks,3.1
+2022-03-01,Food & drinks,3.0
+2022-04-01,Food & drinks,3.5
+2022-05-01,Food & drinks,4.4
+2022-06-01,Food & drinks,6.6
+2022-07-01,Food & drinks,7.7
+2022-08-01,Food & drinks,8.7
+2022-09-01,Food & drinks,9.8
+2022-10-01,Food & drinks,10.6
+2022-11-01,Food & drinks,11.2
+2022-12-01,Food & drinks,11.9
+2023-01-01,Food & drinks,12.8
+2023-02-01,Food & drinks,13.1
+2023-03-01,Food & drinks,13.2
+2023-04-01,Food & drinks,13.0
+2023-05-01,Food & drinks,12.6
+2023-06-01,Food & drinks,10.2
+2023-07-01,Food & drinks,8.8
+2023-08-01,Food & drinks,8.2
+2023-09-01,Food & drinks,7.9
+2023-10-01,Food & drinks,7.0
+2023-11-01,Food & drinks,6.7
+2023-12-01,Food & drinks,5.6
+2024-01-01,Food & drinks,4.6
+2024-02-01,Food & drinks,4.0
+2024-03-01,Food & drinks,2.9
+2024-04-01,Food & drinks,2.9
+2024-05-01,Food & drinks,2.6
+2024-06-01,Food & drinks,2.4
+2024-07-01,Food & drinks,2.1
+2024-08-01,Food & drinks,2.0
+2024-09-01,Food & drinks,1.8
+2024-10-01,Food & drinks,2.1
+2024-11-01,Food & drinks,1.9
+2024-12-01,Food & drinks,2.0
+2025-01-01,Food & drinks,2.6
+2025-02-01,Food & drinks,2.4
+2025-03-01,Food & drinks,3.3
+2025-04-01,Food & drinks,3.2
+2025-05-01,Food & drinks,4.0
+2025-06-01,Food & drinks,4.4
+2025-07-01,Food & drinks,4.7
+2025-08-01,Food & drinks,5.1
+2025-09-01,Food & drinks,4.8
+2025-10-01,Food & drinks,4.5
+2025-11-01,Food & drinks,4.4
+2025-12-01,Food & drinks,4.2
+2015-01-01,Furnishings,-2.7
+2015-02-01,Furnishings,-2.7
+2015-03-01,Furnishings,-2.7
+2015-04-01,Furnishings,-2.4
+2015-05-01,Furnishings,-2.2
+2015-06-01,Furnishings,-1.7
+2015-07-01,Furnishings,-1.6
+2015-08-01,Furnishings,-2.6
+2015-09-01,Furnishings,-2.6
+2015-10-01,Furnishings,-2.3
+2015-11-01,Furnishings,-2.3
+2015-12-01,Furnishings,-1.5
+2016-01-01,Furnishings,-1.6
+2016-02-01,Furnishings,-1.8
+2016-03-01,Furnishings,-2.5
+2016-04-01,Furnishings,-2.5
+2016-05-01,Furnishings,-3.1
+2016-06-01,Furnishings,-3.7
+2016-07-01,Furnishings,-3.6
+2016-08-01,Furnishings,-3.8
+2016-09-01,Furnishings,-3.5
+2016-10-01,Furnishings,-3.8
+2016-11-01,Furnishings,-4.2
+2016-12-01,Furnishings,-4.9
+2017-01-01,Furnishings,-5.5
+2017-02-01,Furnishings,-5.2
+2017-03-01,Furnishings,-4.6
+2017-04-01,Furnishings,-5.0
+2017-05-01,Furnishings,-3.9
+2017-06-01,Furnishings,-3.7
+2017-07-01,Furnishings,-4.2
+2017-08-01,Furnishings,-3.8
+2017-09-01,Furnishings,-4.0
+2017-10-01,Furnishings,-3.6
+2017-11-01,Furnishings,-3.5
+2017-12-01,Furnishings,-3.7
+2018-01-01,Furnishings,-2.9
+2018-02-01,Furnishings,-3.5
+2018-03-01,Furnishings,-4.8
+2018-04-01,Furnishings,-3.6
+2018-05-01,Furnishings,-4.0
+2018-06-01,Furnishings,-4.2
+2018-07-01,Furnishings,-4.0
+2018-08-01,Furnishings,-4.1
+2018-09-01,Furnishings,-3.8
+2018-10-01,Furnishings,-4.5
+2018-11-01,Furnishings,-4.0
+2018-12-01,Furnishings,-3.6
+2019-01-01,Furnishings,-3.4
+2019-02-01,Furnishings,-3.7
+2019-03-01,Furnishings,-3.2
+2019-04-01,Furnishings,-3.7
+2019-05-01,Furnishings,-4.0
+2019-06-01,Furnishings,-3.5
+2019-07-01,Furnishings,-3.7
+2019-08-01,Furnishings,-4.1
+2019-09-01,Furnishings,-2.7
+2019-10-01,Furnishings,-1.9
+2019-11-01,Furnishings,-2.3
+2019-12-01,Furnishings,-2.4
+2020-01-01,Furnishings,-2.7
+2020-02-01,Furnishings,-2.5
+2020-03-01,Furnishings,-2.4
+2020-04-01,Furnishings,-3.0
+2020-05-01,Furnishings,-3.0
+2020-06-01,Furnishings,-3.7
+2020-07-01,Furnishings,-1.2
+2020-08-01,Furnishings,-2.3
+2020-09-01,Furnishings,-3.8
+2020-10-01,Furnishings,-4.1
+2020-11-01,Furnishings,-3.8
+2020-12-01,Furnishings,-4.1
+2021-01-01,Furnishings,-2.3
+2021-02-01,Furnishings,-2.7
+2021-03-01,Furnishings,-1.5
+2021-04-01,Furnishings,-1.1
+2021-05-01,Furnishings,-0.5
+2021-06-01,Furnishings,-0.7
+2021-07-01,Furnishings,-1.1
+2021-08-01,Furnishings,-0.6
+2021-09-01,Furnishings,1.2
+2021-10-01,Furnishings,0.8
+2021-11-01,Furnishings,1.1
+2021-12-01,Furnishings,2.8
+2022-01-01,Furnishings,2.2
+2022-02-01,Furnishings,2.1
+2022-03-01,Furnishings,2.9
+2022-04-01,Furnishings,2.8
+2022-05-01,Furnishings,3.1
+2022-06-01,Furnishings,4.0
+2022-07-01,Furnishings,3.4
+2022-08-01,Furnishings,4.6
+2022-09-01,Furnishings,3.6
+2022-10-01,Furnishings,4.8
+2022-11-01,Furnishings,4.3
+2022-12-01,Furnishings,4.2
+2023-01-01,Furnishings,3.9
+2023-02-01,Furnishings,4.8
+2023-03-01,Furnishings,3.4
+2023-04-01,Furnishings,4.0
+2023-05-01,Furnishings,3.6
+2023-06-01,Furnishings,2.9
+2023-07-01,Furnishings,2.4
+2023-08-01,Furnishings,2.0
+2023-09-01,Furnishings,1.1
+2023-10-01,Furnishings,0.6
+2023-11-01,Furnishings,-0.1
+2023-12-01,Furnishings,0.0
+2024-01-01,Furnishings,0.2
+2024-02-01,Furnishings,-0.1
+2024-03-01,Furnishings,-0.6
+2024-04-01,Furnishings,-0.9
+2024-05-01,Furnishings,-1.5
+2024-06-01,Furnishings,-1.1
+2024-07-01,Furnishings,-0.9
+2024-08-01,Furnishings,-0.8
+2024-09-01,Furnishings,-1.0
+2024-10-01,Furnishings,-0.8
+2024-11-01,Furnishings,-0.5
+2024-12-01,Furnishings,-1.4
+2025-01-01,Furnishings,-0.9
+2025-02-01,Furnishings,-0.9
+2025-03-01,Furnishings,-0.9
+2025-04-01,Furnishings,-0.9
+2025-05-01,Furnishings,-0.7
+2025-06-01,Furnishings,-0.6
+2025-07-01,Furnishings,-0.6
+2025-08-01,Furnishings,-0.8
+2025-09-01,Furnishings,-0.6
+2025-10-01,Furnishings,-0.5
+2025-11-01,Furnishings,-0.7
+2025-12-01,Furnishings,-0.3
+2015-01-01,Health,-0.1
+2015-02-01,Health,0.0
+2015-03-01,Health,0.0
+2015-04-01,Health,0.0
+2015-05-01,Health,0.1
+2015-06-01,Health,-0.1
+2015-07-01,Health,-0.1
+2015-08-01,Health,0.2
+2015-09-01,Health,0.0
+2015-10-01,Health,-0.1
+2015-11-01,Health,-0.1
+2015-12-01,Health,0.0
+2016-01-01,Health,0.0
+2016-02-01,Health,0.5
+2016-03-01,Health,0.5
+2016-04-01,Health,0.3
+2016-05-01,Health,0.8
+2016-06-01,Health,1.0
+2016-07-01,Health,1.0
+2016-08-01,Health,0.7
+2016-09-01,Health,0.9
+2016-10-01,Health,0.8
+2016-11-01,Health,0.9
+2016-12-01,Health,0.7
+2017-01-01,Health,1.0
+2017-02-01,Health,1.2
+2017-03-01,Health,1.1
+2017-04-01,Health,1.4
+2017-05-01,Health,1.0
+2017-06-01,Health,1.0
+2017-07-01,Health,0.9
+2017-08-01,Health,0.7
+2017-09-01,Health,0.7
+2017-10-01,Health,0.7
+2017-11-01,Health,0.7
+2017-12-01,Health,0.7
+2018-01-01,Health,0.3
+2018-02-01,Health,0.0
+2018-03-01,Health,0.2
+2018-04-01,Health,0.1
+2018-05-01,Health,0.1
+2018-06-01,Health,0.1
+2018-07-01,Health,0.1
+2018-08-01,Health,0.3
+2018-09-01,Health,0.3
+2018-10-01,Health,0.4
+2018-11-01,Health,0.5
+2018-12-01,Health,0.5
+2019-01-01,Health,0.6
+2019-02-01,Health,0.5
+2019-03-01,Health,0.5
+2019-04-01,Health,0.4
+2019-05-01,Health,0.4
+2019-06-01,Health,0.4
+2019-07-01,Health,0.6
+2019-08-01,Health,0.8
+2019-09-01,Health,0.7
+2019-10-01,Health,0.4
+2019-11-01,Health,0.4
+2019-12-01,Health,0.5
+2020-01-01,Health,0.4
+2020-02-01,Health,0.7
+2020-03-01,Health,0.7
+2020-04-01,Health,1.0
+2020-05-01,Health,1.4
+2020-06-01,Health,1.2
+2020-07-01,Health,4.0
+2020-08-01,Health,4.2
+2020-09-01,Health,4.2
+2020-10-01,Health,5.3
+2020-11-01,Health,5.1
+2020-12-01,Health,4.9
+2021-01-01,Health,5.1
+2021-02-01,Health,4.6
+2021-03-01,Health,4.7
+2021-04-01,Health,4.8
+2021-05-01,Health,4.1
+2021-06-01,Health,4.4
+2021-07-01,Health,0.8
+2021-08-01,Health,0.8
+2021-09-01,Health,0.7
+2021-10-01,Health,-0.1
+2021-11-01,Health,0.1
+2021-12-01,Health,0.3
+2022-01-01,Health,0.5
+2022-02-01,Health,0.5
+2022-03-01,Health,0.0
+2022-04-01,Health,-0.3
+2022-05-01,Health,0.0
+2022-06-01,Health,0.1
+2022-07-01,Health,0.7
+2022-08-01,Health,1.0
+2022-09-01,Health,1.3
+2022-10-01,Health,1.3
+2022-11-01,Health,1.4
+2022-12-01,Health,1.4
+2023-01-01,Health,0.8
+2023-02-01,Health,1.2
+2023-03-01,Health,1.6
+2023-04-01,Health,-0.5
+2023-05-01,Health,-0.4
+2023-06-01,Health,-0.5
+2023-07-01,Health,-0.6
+2023-08-01,Health,-0.6
+2023-09-01,Health,-0.7
+2023-10-01,Health,-0.7
+2023-11-01,Health,-0.7
+2023-12-01,Health,-0.7
+2024-01-01,Health,-0.4
+2024-02-01,Health,-0.4
+2024-03-01,Health,-0.5
+2024-04-01,Health,1.6
+2024-05-01,Health,1.5
+2024-06-01,Health,1.6
+2024-07-01,Health,1.5
+2024-08-01,Health,1.2
+2024-09-01,Health,1.3
+2024-10-01,Health,1.4
+2024-11-01,Health,1.4
+2024-12-01,Health,1.3
+2025-01-01,Health,2.8
+2025-02-01,Health,2.5
+2025-03-01,Health,2.7
+2025-04-01,Health,2.7
+2025-05-01,Health,2.7
+2025-06-01,Health,2.6
+2025-07-01,Health,2.7
+2025-08-01,Health,2.6
+2025-09-01,Health,2.6
+2025-10-01,Health,2.4
+2025-11-01,Health,2.6
+2025-12-01,Health,2.6
+2015-01-01,Housing & energy,5.5
+2015-02-01,Housing & energy,5.5
+2015-03-01,Housing & energy,6.0
+2015-04-01,Housing & energy,5.6
+2015-05-01,Housing & energy,5.9
+2015-06-01,Housing & energy,6.0
+2015-07-01,Housing & energy,6.0
+2015-08-01,Housing & energy,5.5
+2015-09-01,Housing & energy,5.2
+2015-10-01,Housing & energy,4.8
+2015-11-01,Housing & energy,4.9
+2015-12-01,Housing & energy,5.1
+2016-01-01,Housing & energy,1.7
+2016-02-01,Housing & energy,1.4
+2016-03-01,Housing & energy,1.2
+2016-04-01,Housing & energy,2.0
+2016-05-01,Housing & energy,1.8
+2016-06-01,Housing & energy,2.5
+2016-07-01,Housing & energy,0.7
+2016-08-01,Housing & energy,0.1
+2016-09-01,Housing & energy,0.9
+2016-10-01,Housing & energy,1.5
+2016-11-01,Housing & energy,1.4
+2016-12-01,Housing & energy,2.3
+2017-01-01,Housing & energy,2.9
+2017-02-01,Housing & energy,2.8
+2017-03-01,Housing & energy,2.3
+2017-04-01,Housing & energy,2.1
+2017-05-01,Housing & energy,1.3
+2017-06-01,Housing & energy,1.0
+2017-07-01,Housing & energy,2.8
+2017-08-01,Housing & energy,4.0
+2017-09-01,Housing & energy,3.6
+2017-10-01,Housing & energy,3.9
+2017-11-01,Housing & energy,5.0
+2017-12-01,Housing & energy,4.7
+2018-01-01,Housing & energy,4.7
+2018-02-01,Housing & energy,5.2
+2018-03-01,Housing & energy,5.8
+2018-04-01,Housing & energy,5.9
+2018-05-01,Housing & energy,6.9
+2018-06-01,Housing & energy,6.7
+2018-07-01,Housing & energy,6.9
+2018-08-01,Housing & energy,8.2
+2018-09-01,Housing & energy,7.9
+2018-10-01,Housing & energy,7.1
+2018-11-01,Housing & energy,6.2
+2018-12-01,Housing & energy,5.4
+2019-01-01,Housing & energy,5.2
+2019-02-01,Housing & energy,4.5
+2019-03-01,Housing & energy,4.8
+2019-04-01,Housing & energy,5.2
+2019-05-01,Housing & energy,4.9
+2019-06-01,Housing & energy,4.4
+2019-07-01,Housing & energy,4.2
+2019-08-01,Housing & energy,2.8
+2019-09-01,Housing & energy,3.0
+2019-10-01,Housing & energy,3.2
+2019-11-01,Housing & energy,3.0
+2019-12-01,Housing & energy,3.4
+2020-01-01,Housing & energy,3.5
+2020-02-01,Housing & energy,2.7
+2020-03-01,Housing & energy,1.2
+2020-04-01,Housing & energy,-2.3
+2020-05-01,Housing & energy,-4.2
+2020-06-01,Housing & energy,-3.7
+2020-07-01,Housing & energy,-3.5
+2020-08-01,Housing & energy,-3.6
+2020-09-01,Housing & energy,-4.4
+2020-10-01,Housing & energy,-3.9
+2020-11-01,Housing & energy,-3.7
+2020-12-01,Housing & energy,-3.1
+2021-01-01,Housing & energy,-2.7
+2021-02-01,Housing & energy,-1.6
+2021-03-01,Housing & energy,0.1
+2021-04-01,Housing & energy,4.0
+2021-05-01,Housing & energy,6.3
+2021-06-01,Housing & energy,5.6
+2021-07-01,Housing & energy,6.0
+2021-08-01,Housing & energy,8.5
+2021-09-01,Housing & energy,10.7
+2021-10-01,Housing & energy,12.7
+2021-11-01,Housing & energy,14.2
+2021-12-01,Housing & energy,13.9
+2022-01-01,Housing & energy,14.0
+2022-02-01,Housing & energy,14.9
+2022-03-01,Housing & energy,20.8
+2022-04-01,Housing & energy,20.3
+2022-05-01,Housing & energy,25.2
+2022-06-01,Housing & energy,27.2
+2022-07-01,Housing & energy,26.1
+2022-08-01,Housing & energy,24.3
+2022-09-01,Housing & energy,23.3
+2022-10-01,Housing & energy,31.5
+2022-11-01,Housing & energy,29.4
+2022-12-01,Housing & energy,27.6
+2023-01-01,Housing & energy,27.1
+2023-02-01,Housing & energy,25.5
+2023-03-01,Housing & energy,18.3
+2023-04-01,Housing & energy,17.0
+2023-05-01,Housing & energy,11.1
+2023-06-01,Housing & energy,10.0
+2023-07-01,Housing & energy,10.3
+2023-08-01,Housing & energy,11.0
+2023-09-01,Housing & energy,10.7
+2023-10-01,Housing & energy,0.5
+2023-11-01,Housing & energy,-2.5
+2023-12-01,Housing & energy,-1.6
+2024-01-01,Housing & energy,-1.9
+2024-02-01,Housing & energy,-1.9
+2024-03-01,Housing & energy,-4.2
+2024-04-01,Housing & energy,-3.9
+2024-05-01,Housing & energy,-3.2
+2024-06-01,Housing & energy,-3.4
+2024-07-01,Housing & energy,-3.5
+2024-08-01,Housing & energy,-5.0
+2024-09-01,Housing & energy,-5.6
+2024-10-01,Housing & energy,-4.2
+2024-11-01,Housing & energy,-1.2
+2024-12-01,Housing & energy,-0.7
+2025-01-01,Housing & energy,-0.2
+2025-02-01,Housing & energy,-0.1
+2025-03-01,Housing & energy,2.1
+2025-04-01,Housing & energy,2.5
+2025-05-01,Housing & energy,2.5
+2025-06-01,Housing & energy,2.5
+2025-07-01,Housing & energy,2.9
+2025-08-01,Housing & energy,2.8
+2025-09-01,Housing & energy,2.7
+2025-10-01,Housing & energy,3.0
+2025-11-01,Housing & energy,3.5
+2025-12-01,Housing & energy,3.2
+2015-01-01,Information & comms,-0.4
+2015-02-01,Information & comms,-0.4
+2015-03-01,Information & comms,-0.2
+2015-04-01,Information & comms,-0.1
+2015-05-01,Information & comms,0.7
+2015-06-01,Information & comms,0.9
+2015-07-01,Information & comms,1.3
+2015-08-01,Information & comms,1.4
+2015-09-01,Information & comms,1.3
+2015-10-01,Information & comms,1.0
+2015-11-01,Information & comms,1.1
+2015-12-01,Information & comms,1.0
+2016-01-01,Information & comms,0.5
+2016-02-01,Information & comms,0.0
+2016-03-01,Information & comms,-0.4
+2016-04-01,Information & comms,-1.1
+2016-05-01,Information & comms,-1.9
+2016-06-01,Information & comms,-2.1
+2016-07-01,Information & comms,-2.3
+2016-08-01,Information & comms,-3.4
+2016-09-01,Information & comms,-3.0
+2016-10-01,Information & comms,-3.1
+2016-11-01,Information & comms,-3.1
+2016-12-01,Information & comms,-3.1
+2017-01-01,Information & comms,-2.9
+2017-02-01,Information & comms,-2.3
+2017-03-01,Information & comms,-1.9
+2017-04-01,Information & comms,-2.1
+2017-05-01,Information & comms,-1.1
+2017-06-01,Information & comms,-1.0
+2017-07-01,Information & comms,-1.4
+2017-08-01,Information & comms,-0.4
+2017-09-01,Information & comms,-2.3
+2017-10-01,Information & comms,-2.0
+2017-11-01,Information & comms,-2.1
+2017-12-01,Information & comms,-2.2
+2018-01-01,Information & comms,-1.9
+2018-02-01,Information & comms,-2.1
+2018-03-01,Information & comms,-2.2
+2018-04-01,Information & comms,-2.1
+2018-05-01,Information & comms,-3.0
+2018-06-01,Information & comms,-3.1
+2018-07-01,Information & comms,-2.7
+2018-08-01,Information & comms,-2.8
+2018-09-01,Information & comms,-1.5
+2018-10-01,Information & comms,-2.0
+2018-11-01,Information & comms,-2.3
+2018-12-01,Information & comms,-2.2
+2019-01-01,Information & comms,-1.7
+2019-02-01,Information & comms,-2.4
+2019-03-01,Information & comms,-3.1
+2019-04-01,Information & comms,-3.3
+2019-05-01,Information & comms,-5.3
+2019-06-01,Information & comms,-5.6
+2019-07-01,Information & comms,-5.7
+2019-08-01,Information & comms,-5.3
+2019-09-01,Information & comms,-5.3
+2019-10-01,Information & comms,-5.0
+2019-11-01,Information & comms,-5.5
+2019-12-01,Information & comms,-6.7
+2020-01-01,Information & comms,-7.1
+2020-02-01,Information & comms,-6.3
+2020-03-01,Information & comms,-5.5
+2020-04-01,Information & comms,-5.4
+2020-05-01,Information & comms,-3.2
+2020-06-01,Information & comms,-2.8
+2020-07-01,Information & comms,-4.3
+2020-08-01,Information & comms,-5.3
+2020-09-01,Information & comms,-5.2
+2020-10-01,Information & comms,-5.1
+2020-11-01,Information & comms,-1.5
+2020-12-01,Information & comms,-0.8
+2021-01-01,Information & comms,-1.2
+2021-02-01,Information & comms,-1.2
+2021-03-01,Information & comms,-1.7
+2021-04-01,Information & comms,-1.4
+2021-05-01,Information & comms,-1.6
+2021-06-01,Information & comms,-1.5
+2021-07-01,Information & comms,0.0
+2021-08-01,Information & comms,0.8
+2021-09-01,Information & comms,1.2
+2021-10-01,Information & comms,3.2
+2021-11-01,Information & comms,1.0
+2021-12-01,Information & comms,1.9
+2022-01-01,Information & comms,2.3
+2022-02-01,Information & comms,1.6
+2022-03-01,Information & comms,1.9
+2022-04-01,Information & comms,3.9
+2022-05-01,Information & comms,3.9
+2022-06-01,Information & comms,2.9
+2022-07-01,Information & comms,3.4
+2022-08-01,Information & comms,3.4
+2022-09-01,Information & comms,3.3
+2022-10-01,Information & comms,1.2
+2022-11-01,Information & comms,0.5
+2022-12-01,Information & comms,0.6
+2023-01-01,Information & comms,-0.1
+2023-02-01,Information & comms,0.6
+2023-03-01,Information & comms,0.8
+2023-04-01,Information & comms,0.6
+2023-05-01,Information & comms,0.6
+2023-06-01,Information & comms,1.4
+2023-07-01,Information & comms,1.7
+2023-08-01,Information & comms,1.8
+2023-09-01,Information & comms,1.8
+2023-10-01,Information & comms,1.7
+2023-11-01,Information & comms,1.6
+2023-12-01,Information & comms,1.5
+2024-01-01,Information & comms,1.5
+2024-02-01,Information & comms,1.3
+2024-03-01,Information & comms,1.3
+2024-04-01,Information & comms,1.1
+2024-05-01,Information & comms,1.2
+2024-06-01,Information & comms,1.0
+2024-07-01,Information & comms,0.6
+2024-08-01,Information & comms,0.7
+2024-09-01,Information & comms,0.9
+2024-10-01,Information & comms,1.0
+2024-11-01,Information & comms,1.1
+2024-12-01,Information & comms,1.2
+2025-01-01,Information & comms,1.2
+2025-02-01,Information & comms,1.2
+2025-03-01,Information & comms,1.5
+2025-04-01,Information & comms,1.1
+2025-05-01,Information & comms,0.9
+2025-06-01,Information & comms,1.1
+2025-07-01,Information & comms,1.0
+2025-08-01,Information & comms,0.9
+2025-09-01,Information & comms,0.7
+2025-10-01,Information & comms,0.7
+2025-11-01,Information & comms,0.6
+2025-12-01,Information & comms,0.7
+2015-01-01,Insurance & finance,6.6
+2015-02-01,Insurance & finance,7.3
+2015-03-01,Insurance & finance,7.1
+2015-04-01,Insurance & finance,6.8
+2015-05-01,Insurance & finance,6.6
+2015-06-01,Insurance & finance,6.4
+2015-07-01,Insurance & finance,7.4
+2015-08-01,Insurance & finance,10.5
+2015-09-01,Insurance & finance,11.6
+2015-10-01,Insurance & finance,12.8
+2015-11-01,Insurance & finance,11.5
+2015-12-01,Insurance & finance,13.1
+2016-01-01,Insurance & finance,13.0
+2016-02-01,Insurance & finance,12.6
+2016-03-01,Insurance & finance,11.2
+2016-04-01,Insurance & finance,11.4
+2016-05-01,Insurance & finance,12.9
+2016-06-01,Insurance & finance,13.7
+2016-07-01,Insurance & finance,14.1
+2016-08-01,Insurance & finance,10.7
+2016-09-01,Insurance & finance,9.4
+2016-10-01,Insurance & finance,4.7
+2016-11-01,Insurance & finance,6.1
+2016-12-01,Insurance & finance,5.0
+2017-01-01,Insurance & finance,5.1
+2017-02-01,Insurance & finance,5.4
+2017-03-01,Insurance & finance,3.9
+2017-04-01,Insurance & finance,3.7
+2017-05-01,Insurance & finance,2.2
+2017-06-01,Insurance & finance,1.6
+2017-07-01,Insurance & finance,-0.4
+2017-08-01,Insurance & finance,-0.3
+2017-09-01,Insurance & finance,-0.3
+2017-10-01,Insurance & finance,1.7
+2017-11-01,Insurance & finance,-0.2
+2017-12-01,Insurance & finance,-0.8
+2018-01-01,Insurance & finance,-1.7
+2018-02-01,Insurance & finance,-2.7
+2018-03-01,Insurance & finance,-3.9
+2018-04-01,Insurance & finance,-4.7
+2018-05-01,Insurance & finance,-4.5
+2018-06-01,Insurance & finance,-4.8
+2018-07-01,Insurance & finance,-4.3
+2018-08-01,Insurance & finance,-3.8
+2018-09-01,Insurance & finance,-3.9
+2018-10-01,Insurance & finance,-3.9
+2018-11-01,Insurance & finance,-3.2
+2018-12-01,Insurance & finance,-3.2
+2019-01-01,Insurance & finance,-2.5
+2019-02-01,Insurance & finance,-2.1
+2019-03-01,Insurance & finance,-1.2
+2019-04-01,Insurance & finance,-0.9
+2019-05-01,Insurance & finance,-0.9
+2019-06-01,Insurance & finance,-0.6
+2019-07-01,Insurance & finance,0.7
+2019-08-01,Insurance & finance,2.0
+2019-09-01,Insurance & finance,2.3
+2019-10-01,Insurance & finance,0.6
+2019-11-01,Insurance & finance,0.7
+2019-12-01,Insurance & finance,0.7
+2020-01-01,Insurance & finance,0.6
+2020-02-01,Insurance & finance,0.8
+2020-03-01,Insurance & finance,1.5
+2020-04-01,Insurance & finance,1.1
+2020-05-01,Insurance & finance,1.2
+2020-06-01,Insurance & finance,0.9
+2020-07-01,Insurance & finance,0.3
+2020-08-01,Insurance & finance,-1.5
+2020-09-01,Insurance & finance,-1.5
+2020-10-01,Insurance & finance,0.4
+2020-11-01,Insurance & finance,0.1
+2020-12-01,Insurance & finance,0.0
+2021-01-01,Insurance & finance,0.3
+2021-02-01,Insurance & finance,-0.1
+2021-03-01,Insurance & finance,-0.5
+2021-04-01,Insurance & finance,0.3
+2021-05-01,Insurance & finance,0.2
+2021-06-01,Insurance & finance,0.8
+2021-07-01,Insurance & finance,0.9
+2021-08-01,Insurance & finance,0.9
+2021-09-01,Insurance & finance,0.4
+2021-10-01,Insurance & finance,0.4
+2021-11-01,Insurance & finance,0.5
+2021-12-01,Insurance & finance,0.5
+2022-01-01,Insurance & finance,0.0
+2022-02-01,Insurance & finance,-0.5
+2022-03-01,Insurance & finance,-0.6
+2022-04-01,Insurance & finance,-1.3
+2022-05-01,Insurance & finance,-2.1
+2022-06-01,Insurance & finance,-2.6
+2022-07-01,Insurance & finance,-2.5
+2022-08-01,Insurance & finance,-2.1
+2022-09-01,Insurance & finance,-1.7
+2022-10-01,Insurance & finance,-1.8
+2022-11-01,Insurance & finance,-1.9
+2022-12-01,Insurance & finance,-1.8
+2023-01-01,Insurance & finance,-1.8
+2023-02-01,Insurance & finance,-0.9
+2023-03-01,Insurance & finance,-0.1
+2023-04-01,Insurance & finance,0.9
+2023-05-01,Insurance & finance,1.8
+2023-06-01,Insurance & finance,1.9
+2023-07-01,Insurance & finance,1.8
+2023-08-01,Insurance & finance,2.2
+2023-09-01,Insurance & finance,2.3
+2023-10-01,Insurance & finance,4.2
+2023-11-01,Insurance & finance,4.5
+2023-12-01,Insurance & finance,4.8
+2024-01-01,Insurance & finance,5.0
+2024-02-01,Insurance & finance,5.0
+2024-03-01,Insurance & finance,5.8
+2024-04-01,Insurance & finance,6.2
+2024-05-01,Insurance & finance,6.5
+2024-06-01,Insurance & finance,6.7
+2024-07-01,Insurance & finance,6.9
+2024-08-01,Insurance & finance,7.1
+2024-09-01,Insurance & finance,7.1
+2024-10-01,Insurance & finance,6.6
+2024-11-01,Insurance & finance,6.7
+2024-12-01,Insurance & finance,6.6
+2025-01-01,Insurance & finance,6.9
+2025-02-01,Insurance & finance,6.9
+2025-03-01,Insurance & finance,6.3
+2025-04-01,Insurance & finance,6.4
+2025-05-01,Insurance & finance,6.5
+2025-06-01,Insurance & finance,6.3
+2025-07-01,Insurance & finance,6.2
+2025-08-01,Insurance & finance,5.7
+2025-09-01,Insurance & finance,5.5
+2025-10-01,Insurance & finance,5.7
+2025-11-01,Insurance & finance,5.7
+2025-12-01,Insurance & finance,5.5
+2015-01-01,Personal care & misc.,-1.3
+2015-02-01,Personal care & misc.,-1.2
+2015-03-01,Personal care & misc.,-2.1
+2015-04-01,Personal care & misc.,-1.1
+2015-05-01,Personal care & misc.,-1.4
+2015-06-01,Personal care & misc.,-1.7
+2015-07-01,Personal care & misc.,-1.6
+2015-08-01,Personal care & misc.,-1.5
+2015-09-01,Personal care & misc.,-0.5
+2015-10-01,Personal care & misc.,-1.5
+2015-11-01,Personal care & misc.,-1.9
+2015-12-01,Personal care & misc.,-2.3
+2016-01-01,Personal care & misc.,-1.6
+2016-02-01,Personal care & misc.,-1.5
+2016-03-01,Personal care & misc.,-2.0
+2016-04-01,Personal care & misc.,-2.0
+2016-05-01,Personal care & misc.,-1.9
+2016-06-01,Personal care & misc.,-2.1
+2016-07-01,Personal care & misc.,-1.3
+2016-08-01,Personal care & misc.,-2.0
+2016-09-01,Personal care & misc.,-2.3
+2016-10-01,Personal care & misc.,-2.6
+2016-11-01,Personal care & misc.,-3.0
+2016-12-01,Personal care & misc.,-2.7
+2017-01-01,Personal care & misc.,-3.2
+2017-02-01,Personal care & misc.,-3.5
+2017-03-01,Personal care & misc.,-2.2
+2017-04-01,Personal care & misc.,-2.8
+2017-05-01,Personal care & misc.,-3.7
+2017-06-01,Personal care & misc.,-3.2
+2017-07-01,Personal care & misc.,-4.1
+2017-08-01,Personal care & misc.,-3.4
+2017-09-01,Personal care & misc.,-3.5
+2017-10-01,Personal care & misc.,-2.9
+2017-11-01,Personal care & misc.,-2.2
+2017-12-01,Personal care & misc.,-2.5
+2018-01-01,Personal care & misc.,-2.6
+2018-02-01,Personal care & misc.,-2.3
+2018-03-01,Personal care & misc.,-2.8
+2018-04-01,Personal care & misc.,-2.4
+2018-05-01,Personal care & misc.,-2.0
+2018-06-01,Personal care & misc.,-2.1
+2018-07-01,Personal care & misc.,-1.2
+2018-08-01,Personal care & misc.,-1.9
+2018-09-01,Personal care & misc.,-1.4
+2018-10-01,Personal care & misc.,-1.7
+2018-11-01,Personal care & misc.,-1.4
+2018-12-01,Personal care & misc.,-1.2
+2019-01-01,Personal care & misc.,-0.9
+2019-02-01,Personal care & misc.,-0.9
+2019-03-01,Personal care & misc.,-0.5
+2019-04-01,Personal care & misc.,-0.5
+2019-05-01,Personal care & misc.,-0.4
+2019-06-01,Personal care & misc.,-0.2
+2019-07-01,Personal care & misc.,-0.4
+2019-08-01,Personal care & misc.,0.0
+2019-09-01,Personal care & misc.,-0.1
+2019-10-01,Personal care & misc.,-0.1
+2019-11-01,Personal care & misc.,0.2
+2019-12-01,Personal care & misc.,0.2
+2020-01-01,Personal care & misc.,-0.1
+2020-02-01,Personal care & misc.,-0.1
+2020-03-01,Personal care & misc.,0.0
+2020-04-01,Personal care & misc.,-0.6
+2020-05-01,Personal care & misc.,0.6
+2020-06-01,Personal care & misc.,-0.6
+2020-07-01,Personal care & misc.,1.1
+2020-08-01,Personal care & misc.,-0.6
+2020-09-01,Personal care & misc.,0.1
+2020-10-01,Personal care & misc.,-1.2
+2020-11-01,Personal care & misc.,0.2
+2020-12-01,Personal care & misc.,-2.0
+2021-01-01,Personal care & misc.,-0.4
+2021-02-01,Personal care & misc.,-1.4
+2021-03-01,Personal care & misc.,-0.6
+2021-04-01,Personal care & misc.,0.1
+2021-05-01,Personal care & misc.,-0.6
+2021-06-01,Personal care & misc.,-1.0
+2021-07-01,Personal care & misc.,-2.3
+2021-08-01,Personal care & misc.,-1.3
+2021-09-01,Personal care & misc.,-1.1
+2021-10-01,Personal care & misc.,-0.1
+2021-11-01,Personal care & misc.,-1.2
+2021-12-01,Personal care & misc.,1.3
+2022-01-01,Personal care & misc.,-1.2
+2022-02-01,Personal care & misc.,-0.3
+2022-03-01,Personal care & misc.,-0.9
+2022-04-01,Personal care & misc.,-1.3
+2022-05-01,Personal care & misc.,-0.6
+2022-06-01,Personal care & misc.,1.4
+2022-07-01,Personal care & misc.,1.5
+2022-08-01,Personal care & misc.,2.1
+2022-09-01,Personal care & misc.,1.6
+2022-10-01,Personal care & misc.,2.3
+2022-11-01,Personal care & misc.,2.2
+2022-12-01,Personal care & misc.,1.7
+2023-01-01,Personal care & misc.,0.7
+2023-02-01,Personal care & misc.,0.4
+2023-03-01,Personal care & misc.,1.1
+2023-04-01,Personal care & misc.,1.4
+2023-05-01,Personal care & misc.,0.8
+2023-06-01,Personal care & misc.,-0.3
+2023-07-01,Personal care & misc.,-1.1
+2023-08-01,Personal care & misc.,-1.3
+2023-09-01,Personal care & misc.,-1.1
+2023-10-01,Personal care & misc.,-1.1
+2023-11-01,Personal care & misc.,-1.9
+2023-12-01,Personal care & misc.,-1.4
+2024-01-01,Personal care & misc.,0.9
+2024-02-01,Personal care & misc.,0.7
+2024-03-01,Personal care & misc.,0.1
+2024-04-01,Personal care & misc.,0.0
+2024-05-01,Personal care & misc.,-0.6
+2024-06-01,Personal care & misc.,-0.1
+2024-07-01,Personal care & misc.,-0.3
+2024-08-01,Personal care & misc.,0.0
+2024-09-01,Personal care & misc.,-3.6
+2024-10-01,Personal care & misc.,-2.9
+2024-11-01,Personal care & misc.,-2.9
+2024-12-01,Personal care & misc.,-2.9
+2025-01-01,Personal care & misc.,-2.6
+2025-02-01,Personal care & misc.,-2.6
+2025-03-01,Personal care & misc.,-2.1
+2025-04-01,Personal care & misc.,-2.4
+2025-05-01,Personal care & misc.,-1.9
+2025-06-01,Personal care & misc.,-2.2
+2025-07-01,Personal care & misc.,-2.1
+2025-08-01,Personal care & misc.,-1.9
+2025-09-01,Personal care & misc.,1.6
+2025-10-01,Personal care & misc.,-0.7
+2025-11-01,Personal care & misc.,0.4
+2025-12-01,Personal care & misc.,1.0
+2015-01-01,"Recreation, sport & culture",-0.6
+2015-02-01,"Recreation, sport & culture",-0.1
+2015-03-01,"Recreation, sport & culture",-0.1
+2015-04-01,"Recreation, sport & culture",-0.3
+2015-05-01,"Recreation, sport & culture",-1.4
+2015-06-01,"Recreation, sport & culture",-1.0
+2015-07-01,"Recreation, sport & culture",-0.8
+2015-08-01,"Recreation, sport & culture",0.1
+2015-09-01,"Recreation, sport & culture",0.5
+2015-10-01,"Recreation, sport & culture",0.9
+2015-11-01,"Recreation, sport & culture",-0.2
+2015-12-01,"Recreation, sport & culture",-0.3
+2016-01-01,"Recreation, sport & culture",-0.2
+2016-02-01,"Recreation, sport & culture",-0.3
+2016-03-01,"Recreation, sport & culture",-0.2
+2016-04-01,"Recreation, sport & culture",-0.3
+2016-05-01,"Recreation, sport & culture",0.5
+2016-06-01,"Recreation, sport & culture",0.2
+2016-07-01,"Recreation, sport & culture",0.4
+2016-08-01,"Recreation, sport & culture",-0.4
+2016-09-01,"Recreation, sport & culture",-1.5
+2016-10-01,"Recreation, sport & culture",-2.3
+2016-11-01,"Recreation, sport & culture",-1.7
+2016-12-01,"Recreation, sport & culture",-1.8
+2017-01-01,"Recreation, sport & culture",-2.1
+2017-02-01,"Recreation, sport & culture",-2.2
+2017-03-01,"Recreation, sport & culture",-2.4
+2017-04-01,"Recreation, sport & culture",-1.8
+2017-05-01,"Recreation, sport & culture",-1.4
+2017-06-01,"Recreation, sport & culture",-1.4
+2017-07-01,"Recreation, sport & culture",-1.9
+2017-08-01,"Recreation, sport & culture",-1.9
+2017-09-01,"Recreation, sport & culture",-0.9
+2017-10-01,"Recreation, sport & culture",-0.2
+2017-11-01,"Recreation, sport & culture",-1.3
+2017-12-01,"Recreation, sport & culture",-1.1
+2018-01-01,"Recreation, sport & culture",-0.8
+2018-02-01,"Recreation, sport & culture",0.4
+2018-03-01,"Recreation, sport & culture",0.4
+2018-04-01,"Recreation, sport & culture",0.2
+2018-05-01,"Recreation, sport & culture",-0.7
+2018-06-01,"Recreation, sport & culture",-0.6
+2018-07-01,"Recreation, sport & culture",-0.5
+2018-08-01,"Recreation, sport & culture",-0.5
+2018-09-01,"Recreation, sport & culture",-0.3
+2018-10-01,"Recreation, sport & culture",-0.4
+2018-11-01,"Recreation, sport & culture",0.5
+2018-12-01,"Recreation, sport & culture",0.4
+2019-01-01,"Recreation, sport & culture",0.7
+2019-02-01,"Recreation, sport & culture",0.4
+2019-03-01,"Recreation, sport & culture",0.7
+2019-04-01,"Recreation, sport & culture",0.6
+2019-05-01,"Recreation, sport & culture",1.2
+2019-06-01,"Recreation, sport & culture",1.1
+2019-07-01,"Recreation, sport & culture",1.3
+2019-08-01,"Recreation, sport & culture",2.0
+2019-09-01,"Recreation, sport & culture",2.2
+2019-10-01,"Recreation, sport & culture",2.4
+2019-11-01,"Recreation, sport & culture",2.5
+2019-12-01,"Recreation, sport & culture",2.4
+2020-01-01,"Recreation, sport & culture",2.4
+2020-02-01,"Recreation, sport & culture",2.1
+2020-03-01,"Recreation, sport & culture",1.9
+2020-04-01,"Recreation, sport & culture",2.3
+2020-05-01,"Recreation, sport & culture",1.5
+2020-06-01,"Recreation, sport & culture",1.6
+2020-07-01,"Recreation, sport & culture",1.5
+2020-08-01,"Recreation, sport & culture",1.6
+2020-09-01,"Recreation, sport & culture",1.0
+2020-10-01,"Recreation, sport & culture",0.6
+2020-11-01,"Recreation, sport & culture",0.6
+2020-12-01,"Recreation, sport & culture",0.9
+2021-01-01,"Recreation, sport & culture",1.0
+2021-02-01,"Recreation, sport & culture",0.1
+2021-03-01,"Recreation, sport & culture",0.6
+2021-04-01,"Recreation, sport & culture",0.3
+2021-05-01,"Recreation, sport & culture",1.2
+2021-06-01,"Recreation, sport & culture",1.5
+2021-07-01,"Recreation, sport & culture",1.2
+2021-08-01,"Recreation, sport & culture",1.1
+2021-09-01,"Recreation, sport & culture",1.9
+2021-10-01,"Recreation, sport & culture",2.6
+2021-11-01,"Recreation, sport & culture",2.7
+2021-12-01,"Recreation, sport & culture",3.0
+2022-01-01,"Recreation, sport & culture",2.9
+2022-02-01,"Recreation, sport & culture",3.6
+2022-03-01,"Recreation, sport & culture",3.3
+2022-04-01,"Recreation, sport & culture",3.2
+2022-05-01,"Recreation, sport & culture",2.5
+2022-06-01,"Recreation, sport & culture",2.6
+2022-07-01,"Recreation, sport & culture",3.2
+2022-08-01,"Recreation, sport & culture",3.2
+2022-09-01,"Recreation, sport & culture",2.9
+2022-10-01,"Recreation, sport & culture",2.6
+2022-11-01,"Recreation, sport & culture",2.5
+2022-12-01,"Recreation, sport & culture",2.3
+2023-01-01,"Recreation, sport & culture",-0.2
+2023-02-01,"Recreation, sport & culture",3.5
+2023-03-01,"Recreation, sport & culture",5.5
+2023-04-01,"Recreation, sport & culture",6.9
+2023-05-01,"Recreation, sport & culture",8.0
+2023-06-01,"Recreation, sport & culture",13.1
+2023-07-01,"Recreation, sport & culture",17.1
+2023-08-01,"Recreation, sport & culture",15.8
+2023-09-01,"Recreation, sport & culture",11.3
+2023-10-01,"Recreation, sport & culture",11.8
+2023-11-01,"Recreation, sport & culture",9.5
+2023-12-01,"Recreation, sport & culture",12.5
+2024-01-01,"Recreation, sport & culture",11.4
+2024-02-01,"Recreation, sport & culture",8.5
+2024-03-01,"Recreation, sport & culture",10.1
+2024-04-01,"Recreation, sport & culture",6.0
+2024-05-01,"Recreation, sport & culture",5.1
+2024-06-01,"Recreation, sport & culture",3.2
+2024-07-01,"Recreation, sport & culture",3.2
+2024-08-01,"Recreation, sport & culture",2.3
+2024-09-01,"Recreation, sport & culture",3.2
+2024-10-01,"Recreation, sport & culture",4.3
+2024-11-01,"Recreation, sport & culture",3.0
+2024-12-01,"Recreation, sport & culture",3.8
+2025-01-01,"Recreation, sport & culture",1.4
+2025-02-01,"Recreation, sport & culture",2.8
+2025-03-01,"Recreation, sport & culture",0.0
+2025-04-01,"Recreation, sport & culture",5.0
+2025-05-01,"Recreation, sport & culture",2.6
+2025-06-01,"Recreation, sport & culture",4.3
+2025-07-01,"Recreation, sport & culture",2.8
+2025-08-01,"Recreation, sport & culture",2.4
+2025-09-01,"Recreation, sport & culture",3.5
+2025-10-01,"Recreation, sport & culture",3.6
+2025-11-01,"Recreation, sport & culture",4.2
+2025-12-01,"Recreation, sport & culture",2.3
+2015-01-01,Restaurants & accommodation,1.7
+2015-02-01,Restaurants & accommodation,2.0
+2015-03-01,Restaurants & accommodation,1.4
+2015-04-01,Restaurants & accommodation,1.7
+2015-05-01,Restaurants & accommodation,1.7
+2015-06-01,Restaurants & accommodation,1.7
+2015-07-01,Restaurants & accommodation,1.9
+2015-08-01,Restaurants & accommodation,1.9
+2015-09-01,Restaurants & accommodation,1.8
+2015-10-01,Restaurants & accommodation,1.5
+2015-11-01,Restaurants & accommodation,1.4
+2015-12-01,Restaurants & accommodation,1.6
+2016-01-01,Restaurants & accommodation,1.5
+2016-02-01,Restaurants & accommodation,1.0
+2016-03-01,Restaurants & accommodation,1.7
+2016-04-01,Restaurants & accommodation,2.0
+2016-05-01,Restaurants & accommodation,2.2
+2016-06-01,Restaurants & accommodation,2.9
+2016-07-01,Restaurants & accommodation,2.8
+2016-08-01,Restaurants & accommodation,2.6
+2016-09-01,Restaurants & accommodation,2.2
+2016-10-01,Restaurants & accommodation,2.1
+2016-11-01,Restaurants & accommodation,2.0
+2016-12-01,Restaurants & accommodation,1.9
+2017-01-01,Restaurants & accommodation,2.0
+2017-02-01,Restaurants & accommodation,2.2
+2017-03-01,Restaurants & accommodation,2.3
+2017-04-01,Restaurants & accommodation,2.1
+2017-05-01,Restaurants & accommodation,2.0
+2017-06-01,Restaurants & accommodation,1.8
+2017-07-01,Restaurants & accommodation,2.4
+2017-08-01,Restaurants & accommodation,2.6
+2017-09-01,Restaurants & accommodation,2.7
+2017-10-01,Restaurants & accommodation,2.7
+2017-11-01,Restaurants & accommodation,2.6
+2017-12-01,Restaurants & accommodation,2.6
+2018-01-01,Restaurants & accommodation,2.0
+2018-02-01,Restaurants & accommodation,2.4
+2018-03-01,Restaurants & accommodation,2.3
+2018-04-01,Restaurants & accommodation,2.2
+2018-05-01,Restaurants & accommodation,2.4
+2018-06-01,Restaurants & accommodation,2.2
+2018-07-01,Restaurants & accommodation,1.9
+2018-08-01,Restaurants & accommodation,2.2
+2018-09-01,Restaurants & accommodation,2.3
+2018-10-01,Restaurants & accommodation,2.2
+2018-11-01,Restaurants & accommodation,2.0
+2018-12-01,Restaurants & accommodation,2.1
+2019-01-01,Restaurants & accommodation,3.8
+2019-02-01,Restaurants & accommodation,3.6
+2019-03-01,Restaurants & accommodation,3.6
+2019-04-01,Restaurants & accommodation,3.7
+2019-05-01,Restaurants & accommodation,3.3
+2019-06-01,Restaurants & accommodation,3.2
+2019-07-01,Restaurants & accommodation,2.4
+2019-08-01,Restaurants & accommodation,2.1
+2019-09-01,Restaurants & accommodation,2.4
+2019-10-01,Restaurants & accommodation,2.6
+2019-11-01,Restaurants & accommodation,2.9
+2019-12-01,Restaurants & accommodation,2.6
+2020-01-01,Restaurants & accommodation,1.5
+2020-02-01,Restaurants & accommodation,1.4
+2020-03-01,Restaurants & accommodation,1.0
+2020-04-01,Restaurants & accommodation,1.1
+2020-05-01,Restaurants & accommodation,1.0
+2020-06-01,Restaurants & accommodation,1.6
+2020-07-01,Restaurants & accommodation,1.0
+2020-08-01,Restaurants & accommodation,0.9
+2020-09-01,Restaurants & accommodation,1.2
+2020-10-01,Restaurants & accommodation,0.1
+2020-11-01,Restaurants & accommodation,0.8
+2020-12-01,Restaurants & accommodation,2.5
+2021-01-01,Restaurants & accommodation,3.1
+2021-02-01,Restaurants & accommodation,3.1
+2021-03-01,Restaurants & accommodation,3.1
+2021-04-01,Restaurants & accommodation,2.9
+2021-05-01,Restaurants & accommodation,2.8
+2021-06-01,Restaurants & accommodation,1.6
+2021-07-01,Restaurants & accommodation,3.0
+2021-08-01,Restaurants & accommodation,3.2
+2021-09-01,Restaurants & accommodation,2.7
+2021-10-01,Restaurants & accommodation,4.1
+2021-11-01,Restaurants & accommodation,3.8
+2021-12-01,Restaurants & accommodation,2.6
+2022-01-01,Restaurants & accommodation,2.2
+2022-02-01,Restaurants & accommodation,2.1
+2022-03-01,Restaurants & accommodation,3.6
+2022-04-01,Restaurants & accommodation,5.0
+2022-05-01,Restaurants & accommodation,5.9
+2022-06-01,Restaurants & accommodation,7.0
+2022-07-01,Restaurants & accommodation,7.4
+2022-08-01,Restaurants & accommodation,7.2
+2022-09-01,Restaurants & accommodation,7.5
+2022-10-01,Restaurants & accommodation,7.5
+2022-11-01,Restaurants & accommodation,7.6
+2022-12-01,Restaurants & accommodation,8.1
+2023-01-01,Restaurants & accommodation,7.2
+2023-02-01,Restaurants & accommodation,8.8
+2023-03-01,Restaurants & accommodation,8.8
+2023-04-01,Restaurants & accommodation,8.0
+2023-05-01,Restaurants & accommodation,8.5
+2023-06-01,Restaurants & accommodation,8.2
+2023-07-01,Restaurants & accommodation,7.3
+2023-08-01,Restaurants & accommodation,7.2
+2023-09-01,Restaurants & accommodation,7.8
+2023-10-01,Restaurants & accommodation,7.7
+2023-11-01,Restaurants & accommodation,7.0
+2023-12-01,Restaurants & accommodation,6.6
+2024-01-01,Restaurants & accommodation,7.2
+2024-02-01,Restaurants & accommodation,6.4
+2024-03-01,Restaurants & accommodation,5.5
+2024-04-01,Restaurants & accommodation,4.9
+2024-05-01,Restaurants & accommodation,4.8
+2024-06-01,Restaurants & accommodation,4.4
+2024-07-01,Restaurants & accommodation,4.4
+2024-08-01,Restaurants & accommodation,4.5
+2024-09-01,Restaurants & accommodation,3.9
+2024-10-01,Restaurants & accommodation,3.7
+2024-11-01,Restaurants & accommodation,3.8
+2024-12-01,Restaurants & accommodation,3.7
+2025-01-01,Restaurants & accommodation,3.9
+2025-02-01,Restaurants & accommodation,3.1
+2025-03-01,Restaurants & accommodation,3.2
+2025-04-01,Restaurants & accommodation,3.3
+2025-05-01,Restaurants & accommodation,2.8
+2025-06-01,Restaurants & accommodation,2.5
+2025-07-01,Restaurants & accommodation,2.7
+2025-08-01,Restaurants & accommodation,2.7
+2025-09-01,Restaurants & accommodation,3.0
+2025-10-01,Restaurants & accommodation,3.3
+2025-11-01,Restaurants & accommodation,3.6
+2025-12-01,Restaurants & accommodation,3.6
+2015-01-01,Transport,-6.9
+2015-02-01,Transport,-7.4
+2015-03-01,Transport,-5.2
+2015-04-01,Transport,-6.4
+2015-05-01,Transport,-3.0
+2015-06-01,Transport,-2.5
+2015-07-01,Transport,-3.9
+2015-08-01,Transport,-3.5
+2015-09-01,Transport,-5.8
+2015-10-01,Transport,-5.8
+2015-11-01,Transport,-5.6
+2015-12-01,Transport,-4.6
+2016-01-01,Transport,-2.8
+2016-02-01,Transport,-3.4
+2016-03-01,Transport,-6.4
+2016-04-01,Transport,-5.2
+2016-05-01,Transport,-5.6
+2016-06-01,Transport,-4.2
+2016-07-01,Transport,-3.2
+2016-08-01,Transport,-5.0
+2016-09-01,Transport,-3.6
+2016-10-01,Transport,-2.0
+2016-11-01,Transport,-0.2
+2016-12-01,Transport,0.5
+2017-01-01,Transport,3.1
+2017-02-01,Transport,4.1
+2017-03-01,Transport,5.7
+2017-04-01,Transport,7.8
+2017-05-01,Transport,2.5
+2017-06-01,Transport,-0.9
+2017-07-01,Transport,0.2
+2017-08-01,Transport,1.8
+2017-09-01,Transport,1.2
+2017-10-01,Transport,0.9
+2017-11-01,Transport,1.2
+2017-12-01,Transport,1.6
+2018-01-01,Transport,0.0
+2018-02-01,Transport,0.9
+2018-03-01,Transport,0.3
+2018-04-01,Transport,-4.1
+2018-05-01,Transport,1.4
+2018-06-01,Transport,1.6
+2018-07-01,Transport,2.3
+2018-08-01,Transport,1.3
+2018-09-01,Transport,2.2
+2018-10-01,Transport,3.4
+2018-11-01,Transport,0.9
+2018-12-01,Transport,0.6
+2019-01-01,Transport,-1.2
+2019-02-01,Transport,-1.2
+2019-03-01,Transport,0.5
+2019-04-01,Transport,3.9
+2019-05-01,Transport,0.1
+2019-06-01,Transport,1.1
+2019-07-01,Transport,-1.3
+2019-08-01,Transport,-0.4
+2019-09-01,Transport,-0.4
+2019-10-01,Transport,-1.0
+2019-11-01,Transport,0.2
+2019-12-01,Transport,2.4
+2020-01-01,Transport,3.2
+2020-02-01,Transport,3.0
+2020-03-01,Transport,1.9
+2020-04-01,Transport,-0.3
+2020-05-01,Transport,-2.2
+2020-06-01,Transport,-1.6
+2020-07-01,Transport,-4.7
+2020-08-01,Transport,-4.8
+2020-09-01,Transport,-3.6
+2020-10-01,Transport,-4.4
+2020-11-01,Transport,-3.2
+2020-12-01,Transport,-4.5
+2021-01-01,Transport,-2.5
+2021-02-01,Transport,-2.9
+2021-03-01,Transport,-2.9
+2021-04-01,Transport,-0.5
+2021-05-01,Transport,3.6
+2021-06-01,Transport,3.0
+2021-07-01,Transport,8.2
+2021-08-01,Transport,10.5
+2021-09-01,Transport,11.4
+2021-10-01,Transport,15.9
+2021-11-01,Transport,16.8
+2021-12-01,Transport,18.3
+2022-01-01,Transport,14.4
+2022-02-01,Transport,15.6
+2022-03-01,Transport,19.1
+2022-04-01,Transport,19.1
+2022-05-01,Transport,16.6
+2022-06-01,Transport,20.5
+2022-07-01,Transport,19.4
+2022-08-01,Transport,15.2
+2022-09-01,Transport,11.7
+2022-10-01,Transport,9.1
+2022-11-01,Transport,8.2
+2022-12-01,Transport,2.5
+2023-01-01,Transport,3.5
+2023-02-01,Transport,3.6
+2023-03-01,Transport,0.5
+2023-04-01,Transport,-2.0
+2023-05-01,Transport,-1.4
+2023-06-01,Transport,-3.7
+2023-07-01,Transport,-4.0
+2023-08-01,Transport,-1.6
+2023-09-01,Transport,1.0
+2023-10-01,Transport,2.0
+2023-11-01,Transport,0.2
+2023-12-01,Transport,3.9
+2024-01-01,Transport,2.1
+2024-02-01,Transport,2.9
+2024-03-01,Transport,3.8
+2024-04-01,Transport,4.3
+2024-05-01,Transport,7.0
+2024-06-01,Transport,5.2
+2024-07-01,Transport,5.9
+2024-08-01,Transport,4.4
+2024-09-01,Transport,-0.3
+2024-10-01,Transport,-2.2
+2024-11-01,Transport,-1.7
+2024-12-01,Transport,1.6
+2025-01-01,Transport,4.4
+2025-02-01,Transport,2.8
+2025-03-01,Transport,1.8
+2025-04-01,Transport,2.0
+2025-05-01,Transport,-2.3
+2025-06-01,Transport,-1.9
+2025-07-01,Transport,-2.7
+2025-08-01,Transport,-2.3
+2025-09-01,Transport,1.5
+2025-10-01,Transport,2.0
+2025-11-01,Transport,3.0
+2025-12-01,Transport,0.4
